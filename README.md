@@ -7,7 +7,7 @@ Messing with fits files from MAST, it's not always immediately obvious what you'
 
 Simple filters, perspective for where this object is located in the sky, and an available lookup of major stars to get your bearings. 
 
-1. First download some fits files using https://github.com/aseever/MAST_Downloader
+1. First download some fits files using [https://github.com/aseever/MAST_Downloader](https://github.com/vibe-code-science-news/mast-downloader)
 
 2. Put them in the /data directory
 
